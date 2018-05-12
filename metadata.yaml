@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25116#The-New-England-Magazine-Volume-1-No.-5-Bay-State-Monthly-Volume-4-No.-5-May-1886
 gutenberg_bookshelf: The Bay State Monthly
 gutenberg_issued: '2008-04-21'
 gutenberg_type: Text
